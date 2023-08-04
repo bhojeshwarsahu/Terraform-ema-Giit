@@ -1,0 +1,5 @@
+aws_region        = "us-east-2"
+aws_access_key    = ""
+aws_secret_key    = ""
+instance_type = "t2.nano"
+ami_id = "ami-05eea9de06c839c7c"
